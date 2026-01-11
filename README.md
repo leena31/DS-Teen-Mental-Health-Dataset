@@ -15,7 +15,7 @@ TEEN_MENTAL_HEALTH/
 │
 ├── data/
 │   ├── raw/                  # Original, untouched dataset
-│   ├── processed_v1/         # Initial processed dataset (early experiments)
+│   ├── processed_v1/         # Initial processed dataset (early experiment)
 │   └── processed_v2/         # Final processed dataset used for results
 │
 ├── notebooks/
