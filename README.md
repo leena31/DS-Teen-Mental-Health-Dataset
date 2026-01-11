@@ -31,3 +31,9 @@ TEEN_MENTAL_HEALTH/
 │
 ├── requirements.txt          # Project dependencies
 └── README.md                 # Project documentation
+
+# Get Started
+python -m venv venv # Create Virtual env
+venv\Scripts\activate
+
+pip install -r requirements.txt # Install requirements
