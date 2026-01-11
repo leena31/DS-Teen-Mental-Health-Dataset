@@ -1,0 +1,9 @@
+#!/bin/sh
+'''exec' "/Users/leena/Desktop/Data Science/teen_mental_health_project/env/bin/python" "$0" "$@"
+' '''
+import sys
+from nbconvert.nbconvertapp import dejavu_main
+if __name__ == '__main__':
+    if sys.argv[0].endswith('.exe'):
+        sys.argv[0] = sys.argv[0][:-4]
+    sys.exit(dejavu_main())
