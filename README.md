@@ -1,5 +1,6 @@
 # Teen Mental Health Prediction Using Machine Learning
-This project applies machine learning techniques to predict daily stress levels among adolescents using behavioral, contextual, and emotional self-reported data. The study emphasizes balanced evaluation, model interpretability, and ethical stress detection, particularly for high-stress cases. Dataset is available on Kaggle.
+This project applies machine learning techniques to predict daily stress levels among adolescents using behavioral, contextual, and emotional self-reported data. The study emphasizes balanced evaluation, model interpretability, and stress detection.
+Dataset is available on Kaggle: https://www.kaggle.com/datasets/dakshbhatnagar08/inside-teen-minds-global-mental-health-and-habits/code
 
 # Problem Statement
 
