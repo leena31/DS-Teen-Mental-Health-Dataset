@@ -24,9 +24,9 @@ TEEN_MENTAL_HEALTH/
 │   ├── 03_modeling_v1.ipynb            # Initial modeling experiments
 │   └── 03_modeling_final_v2.ipynb      # Final model training and evaluation
 │
-├── reports/                  # Final reports, figures, and analysis outputs
+├── reports/                  # Final figures, and analysis outputs
 │
-├── env/                      # Virtual environment (optional)
+├── env/                      # Virtual environment
 │
 ├── requirements.txt          # Project dependencies
 └── README.md                 # Project documentation
