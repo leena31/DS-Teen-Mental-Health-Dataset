@@ -4,7 +4,7 @@ Dataset is available on Kaggle: https://www.kaggle.com/datasets/dakshbhatnagar08
 
 # Problem Statement
 
-Adolescent stress is influenced by multiple interacting factors such as mood, sleep, screen time, social interaction, and academic context.
+Teens stress is influenced by multiple interacting factors such as mood, sleep, screen time, social interaction, and academic context.
 The goal of this project is to:
 Predict daily stress levels (Low, Medium, High) at the student-day level using supervised machine learning models. Applied Logistic Regression, Random Forest, SVM, XGBoost Classification models and evaluatd basis on macro F1-score over accuracy to ensure fair treatment of all stress categories. Also, an ablation study was performed to assess the impact of key features on model performance.
 
